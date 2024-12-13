@@ -15,6 +15,9 @@ footer {
   border-top: 1px solid #e9ecef;
   padding: 5px;
 }
+.footer-block :hover {
+  transform: scale(1.1);
+}
 .footer-icons {
   display: flex;
   flex-direction: column;
