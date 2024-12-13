@@ -1,0 +1,28 @@
+/*푸터부분*/
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100vw;
+  padding: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+.footer-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #e9ecef;
+  padding: 5px;
+}
+.footer-icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 4px;
+  margin: 0px 10px 0px 10px;
+  text-align: center;
+}
+.footer-icons img {
+  width: 15px;
+}
