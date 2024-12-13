@@ -3,15 +3,15 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 5px 10px 5px 10px;
+  margin: 10px;
 }
 
 .info-bar__time {
-  font-size: 10px;
+  font-size: 20px;
   font-weight: bold;
 }
 .info-bar__icon img {
-  width: 12px;
+  width: 20px;
 }
 
 /*메뉴부분*/
@@ -19,20 +19,20 @@
   display: flex;
   justify-content: space-between;
   align-content: center;
-  margin: 5px 10px 5px 7px;
+  margin: 10px;
 }
 .menu-bar__location {
-  font-size: 12px;
+  font-size: 25px;
   font-weight: bold;
   display: flex;
   justify-content: space-between;
   align-content: center;
 }
 .menu-bar__location div img {
-  width: 12px;
+  width: 25px;
   font-weight: bold;
 }
 .menu-bar__icon img {
-  width: 15px;
+  width: 25px;
   padding-right: 5px;
 }
